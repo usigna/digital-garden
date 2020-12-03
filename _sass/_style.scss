@@ -17,6 +17,7 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 63em;
+  // background: url("../images/bg.png");
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -83,7 +84,8 @@ a {
   color: $color-primary;
   &:hover {
     color: black !important;
-    background: #fffaf1;
+    // background: #fffaf1;
+    background: #ffe8bc;
   }
   &:after {
     position: relative;
