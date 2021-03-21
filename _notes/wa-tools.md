@@ -2,7 +2,7 @@
 title: Narzędzia
 ---
 
-<div class="tools__box">
+<div class="box">
   <strong>Walidatory:</strong>
   <ul class="list">
     <li><a href="https://developers.google.com/web/tools/lighthouse" target="_blank" class="internal-link" lang="en">Lighthouse</a> - jest "wbudowany" w przeglądarkę Chrome</li>
@@ -12,7 +12,7 @@ title: Narzędzia
   </ul>
 </div>
 
-<div class="tools__box">
+<div class="box">
   <strong>Narzędzia do badania kontrastu:</strong>
   <ul class="list">
     ​<li><a href="https://whocanuse.com/" target="_blank" class="internal-link" lang="en">Who Can Use</a> - pokazuje również, jak np. daltonista widzi dane zestawienie kolorów</li>
@@ -22,7 +22,7 @@ title: Narzędzia
   </ul>
 </div>
 
-<div class="tools__box">
+<div class="box">
   <strong>Narzędzia do analizy użytego języka:</strong>
   <ul class="list">
     ​<li><a href="https://www.jasnopis.pl/" target="_blank" class="internal-link">Jasnopis</a></li>
@@ -30,7 +30,7 @@ title: Narzędzia
   </ul>
 </div>
 
-<div class="tools__box">
+<div class="box">
   <strong>Czytniki ekranowe:</strong>
   <ul class="list">
     ​<li><a href="https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=pl" target="_blank" class="internal-link" lang="en">Chrome Vox</a> - wtyczka dla przeglądarki Chrome</li>
@@ -38,7 +38,7 @@ title: Narzędzia
   </ul>
 </div>
 
-<div class="tools__box">
+<div class="box">
   <strong>Wtyczki dla WordPress:</strong>
   <ul class="list" lang="en">
     <li>WP Accessibility Helper (WAH)</li>
@@ -48,7 +48,7 @@ title: Narzędzia
   </ul>
 </div>
 
-<div class="tools__box">
+<div class="box">
   <strong>Pozostałe narzędzia:</strong>
   <ul class="list">
     <li><a href="https://accessibilityinsights.io/docs/en/web/overview/" target="_blank" class="internal-link" lang="en">Accessibility Insights for Web</a> - wtyczka dla przeglądarki Chrome, która pozwala między innymi na łatwiejsze śledzenie ścieżki poruszania się po stronie za pomocą tabulatora</li>

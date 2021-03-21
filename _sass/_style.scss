@@ -166,13 +166,13 @@ code {
   line-height: 0;
   li {
     line-height: 1.5;
-    a {
-      background: transparent !important;
-    }
   }
 }
 
-// tools
-.tools__box {
+.internal-link {
+  background: transparent !important;
+}
+
+.box {
   margin-bottom: 2.5rem;
 }
