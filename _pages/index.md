@@ -5,18 +5,14 @@ id: home
 permalink: /
 ---
 
-# Welcome!
+# Cześć!
 
-<!-- 🌱 -->
+<p>Witaj w moim cyfrowym ogrodzie, który jest zbiorem luźno powiązanych ze sobą postów i notatek.</p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+<img src="../assets/carrot2.png" alt="Marchew" style="margin: 4.5rem auto 2.5rem;" />
 
-<img src="../images/camping.jpg" alt="Kemping" />
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
-
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+<p style="padding: 2em 1em; background: #f0f0f0; border-radius: 4px;">
+  Zwiedzanie rozpocznij od sprawdzenia, co zawiera <span style="font-weight: bold">[[spis treści]]</span>.
 </p>
 
 <style>
@@ -26,4 +22,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
   /* .wrapper {
     max-width: 46em;
   } */
+  img {
+    padding: 1rem 0;
+  }
 </style>
