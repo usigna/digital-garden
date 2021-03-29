@@ -2,6 +2,8 @@
 title: Narzędzia
 ---
 
+<p>Zbiór przydatnych narzędzi do badania dostępności, projektowania oraz kodowania dostępnych stron i aplikacji.</p>
+
 <div class="box">
   <strong>Walidatory:</strong>
   <ul class="list">
