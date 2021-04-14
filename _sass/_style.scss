@@ -176,3 +176,18 @@ code {
 .box {
   margin-bottom: 2.5rem;
 }
+
+/* social icons */
+.social-icons {
+  margin-top: 1rem;
+  a {
+    border-bottom: none;
+    margin: 0 0.5rem;
+    &:hover {
+      background: transparent;
+    }
+    &:after {
+      display: none;
+    }
+  }
+}
