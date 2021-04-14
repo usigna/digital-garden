@@ -185,12 +185,14 @@ code {
   margin-top: 1rem;
   a {
     border-bottom: none;
-    margin: 0 0.5rem;
     &:hover {
       background: transparent;
     }
     &:after {
       display: none;
+    }
+    &:nth-of-type(2) {
+      margin: 0 0.5rem;
     }
   }
 }
