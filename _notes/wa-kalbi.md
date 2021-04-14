@@ -30,8 +30,8 @@ title: Dostępność w praktyce na przykładzie Kalbi.pl
         <li style="list-style-type: lower-alpha;">Dla wymaganych pól zamiast znaku gwiazdy ("*") powinno dodać się słowo "wymagane". Przykład: Imię/Nick (wymagane).</li>
         <li style="list-style-type: lower-alpha;">Prawidłowa informacja o błędzie powinna wyglądać następująco:
           <ul>
-            <li>czerwone obramowanie dla elementu</li>
-            <li>informacja tekstowa pod elementem: ikona wykrzyknika, treść komunikatu i przykład poprawnych danych. Przykład dla pola imię: <span class="fas fa-exclamation-triangle" aria-hidden="true"></span> uzupełnij pole imię, np. Adam</li>
+            <li>czerwone obramowanie dla elementu,</li>
+            <li>informacja tekstowa pod elementem: ikona wykrzyknika, treść komunikatu i przykład poprawnych danych. Przykład dla pola imię: <span class="fas fa-exclamation-triangle" aria-hidden="true"></span> uzupełnij pole imię, np. Adam.</li>
           </ul>
         </li>
       </ol>
